@@ -19,7 +19,6 @@ Me apasiona la programación y el desarrollo de aplicaciones, especialmente:
 
 - 🔧 **Backend development**
 - 🗄️ **Bases de datos**
-- 🌐 **Aplicaciones web**
 
 Actualmente centrado en terminar DAM, seguir mejorando mis conocimientos y construyendo proyectos propios para ganar experiencia real.
 
