@@ -51,19 +51,6 @@ Actualmente centrado en terminar DAM, seguir mejorando mis conocimientos y const
 
 <div align="center">
 
-<a href="https://github.com/Juan16112007/Simon-Dice-v1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan16112007&repo=Simon-Dice-v1&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Juan16112007/SimonDiceV2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Juan16112007&repo=SimonDiceV2&theme=chartreuse-dark&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
-#### ⚽ Sistema de gestión y análisis de fútbol
-Aplicación web para gestionar equipos y jugadores, consultar estadísticas y analizar su rendimiento.
-`Java` · `Spring Boot` · `SQLite` · `JDBC` · `Thymeleaf` · `JavaScript`
-
 #### 🎮 Simon Dice v1
 Primera versión del clásico juego de memoria, realizada para practicar programación y lógica.
 `Java` · [Ver repositorio](https://github.com/Juan16112007/Simon-Dice-v1)
